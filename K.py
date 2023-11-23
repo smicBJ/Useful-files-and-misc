@@ -4,6 +4,12 @@ ROMAN = "roman"
 STRIKETHROUGH = "overstrike"
 ITALIC = "italic"
 
+PXS = 5
+PS = 10
+PM = 20
+PL = 30
+PXL = 40
+
 H1 = (FONT_FAMILY, 39, BOLD)
 H2 = (FONT_FAMILY, 32, BOLD)
 H3 = (FONT_FAMILY, 28, BOLD)
